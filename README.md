@@ -31,6 +31,25 @@
 
 ---
 
+## 📊 GitHub Summary
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mridu-m&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mridu-m&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mridu-m&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mridu-m&theme=tokyonight"/>
+</p>
+
+<!-- <p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridu-m&theme=tokyonight"/>
+</p> -->
+
+
+---
+
 ### 💻 Coding Platforms
 
 <p align="center">
@@ -118,8 +137,10 @@
 
 ---
 
-### 📊 GitHub Stats
 
+
+<!-- 
+### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mridu-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridu-m&layout=compact&theme=tokyonight&hide_border=true" />
@@ -133,15 +154,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridu-m&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+ -->
 
+<!-- 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mridu-m&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
