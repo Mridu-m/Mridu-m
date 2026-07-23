@@ -1,8 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mridu Mallick</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mridu Mallick</h1>
 <h3 align="center">Java Backend Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;MERN+Developer;AI+%26+GenAI+Enthusiast;Always+Learning+New+Things!">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mridu-m&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a> -->
 </p>
 
 ---
@@ -15,6 +28,28 @@
 - 🤖 Interested in **Artificial Intelligence, LLMs & Agentic AI**
 - 📚 Solving DSA problems daily on LeetCode
 - 🎯 Goal: Crack Product-Based Companies
+
+---
+
+### 💻 Coding Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/your-username">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/your-username">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/your-username/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/your-username">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -81,78 +116,36 @@
 </tr>
 </table>
 
-<!-- 
-## 📊 GitHub Stats
-<div align="center">
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mridu-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridu-m&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</div> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridu-m&theme=tokyonight&hide_border=true" />
+</p>
 
-
-
-<!-- 
-## 🔥 GitHub Streak
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div> -->
-
-
-
-<!-- 
-## 🏆 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</div> -->
-
-
-<!--
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-</div>
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mridu-m&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+### 🏆 GitHub Trophies
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mridu-mallick-45292732a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> -->
-
-<a href="https://leetcode.com/u/M_Mallick/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Mridu-m">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mridu-m&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
 
 ---
 
-<div align="center">
-
-### 👀 Visitor Count
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
