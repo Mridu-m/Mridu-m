@@ -20,67 +20,66 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td>
 
-### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript"/>
-<img width="10"/>
-<!-- <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript"/>
-<img width="10"/> -->
-<img src="https://skillicons.dev/icons?i=c" height="60" alt="C"/>
-<br><br>
+</td>
+</tr>
 
-### 🚀 Backend
+<tr>
+<td align="center"><b>🚀 Backend</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js"/>
-<br><br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases & ORM
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=prisma" height="60" alt="Prisma"/>
-<img width="10"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" height="60" alt="Drizzle ORM"/>
-<br><br>
+<tr>
+<td align="center"><b>🗄️ Databases & ORM</b></td>
+<td>
 
-### 🎨 Frontend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=react" height="60" alt="React"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS"/>
-<br><br>
+</td>
+</tr>
 
-### ⚙️ Tools & DevOps
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=git" height="60" alt="Git"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=maven" height="60" alt="Maven"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=idea" height="60" alt="IntelliJ IDEA"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=bash" height="60" alt="Bash"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>⚙️ Tools & DevOps</b></td>
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <!-- 
 ## 📊 GitHub Stats
