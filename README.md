@@ -31,6 +31,12 @@
 
 ---
 
+> 🧠 **Currently building:** an AI-powered backend service with Spring Boot + LLM integration
+> 📚 **Learning:** LangChain, Vector Databases, RAG pipelines
+> 🎯 **2026 Goal:** Contribute to 3 open-source AI projects
+
+---
+
 ## 📊 GitHub Summary
 
 <p align="center">
