@@ -50,13 +50,13 @@
 </p>
 
 <!-- <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridu-m&theme=tokyonight"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mridu-m&theme=tokyonight&utcOffset=5.5"/>
 </p> -->
 
 
 ---
 
-### 💻 Coding Platforms
+## 💻 Coding Platforms
 
 <p align="center">
   <a href="https://leetcode.com/your-username/">
